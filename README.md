@@ -2,7 +2,7 @@
 <h3 align="center">A frontend engineer with passion for helping companies build their UI applications.
 </h3>
 
-- 👨‍💻 My latest projects are available at [MohamedDewidar.com](MohamedDewidar.com)
+- 👨‍💻 My latest projects are available at [MohamedDewidar.com](https://MohamedDewidar.com)
 
 - 📫 Send me an [Email](mailto:dewiidar@yahoo.com) 
 
