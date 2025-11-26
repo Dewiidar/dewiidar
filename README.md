@@ -1,17 +1,72 @@
-<h1 align="center">Hi 👋, I'm Mohamed Dewidar</h1>
-<h3 align="center">A frontend engineer with passion for helping companies build their UI applications.
-</h3>
+# Hi, I'm Mohamed Dewidar 👋
 
-- 👨‍💻 My latest projects are available at [MohamedDewidar.com](https://MohamedDewidar.com)
+## Senior Frontend Engineer | Open to Netherlands 🇳🇱 (HSM)
 
-- 📫 Send me an [Email](mailto:dewiidar@yahoo.com) 
+I'm a Senior Frontend Engineer with **7+ years** of experience delivering enterprise SaaS solutions. I specialize in building performant, scalable web applications using React, Angular, and TypeScript.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-dewidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-dewidar" height="30" width="40" /></a>
-</p>
+**📍 Currently:** Based in UAE, working remotely with US/EU clients  
+**🎯 Seeking:** Frontend engineering opportunities in the Netherlands via the Highly Skilled Migrant route  
+**💼 Role:** Senior Frontend Engineer at [Capstone Logistics](https://www.capstonelogistics.com/)
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><br/><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><br/><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><br/><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><br/><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+## 🛠️ Tech Stack
+
+**Core Frontend:**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**State Management:**  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+**Styling:**  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+
+---
+
+## 🚀 What I Do
+
+- 💻 Build performant, scalable web applications for enterprise and SaaS products
+- ⚡ Lead frontend architecture and performance optimization (achieved **35% load time reduction**)
+- 🤝 Collaborate with cross-functional teams across multiple timezones (US, EU, MENA)
+- 📈 Modernize legacy codebases and establish best practices
+- 👥 Mentor junior developers and conduct code reviews
+
+---
+
+## 💼 Featured Work
+
+### Enterprise Projects
+- **Managed Receiving Platform** - Modernized appointment scheduling system with role-based dashboards, real-time tracking, and interactive data visualization (Angular, TypeScript, RxJS, XState, D3.js)
+- **Yard Management System** - Built trailer movement tracking platform with 35% performance improvement through code-splitting and lazy loading (AngularJS, TypeScript)
+- **IEREK Conference Platform** - Multi-site platform serving international conferences and researchers globally (React, JavaScript)
+
+### Open Source & Personal
+Check out my pinned repositories below! 👇
+
+---
+
+## 📊 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewiidar&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewiidar&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 **Portfolio:** [mohameddewidar.com](https://mohameddewidar.com)
+- 💼 **LinkedIn:** [linkedin.com/in/mohamed-dewidar](https://www.linkedin.com/in/mohamed-dewidar/)
+- 📧 **Email:** mohamed.dewidar.career@gmail.com
