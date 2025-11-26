@@ -52,17 +52,6 @@ I'm a Senior Frontend Engineer with **7+ years** of experience delivering enterp
 - **Yard Management System** - Built trailer movement tracking platform with 35% performance improvement through code-splitting and lazy loading (AngularJS, TypeScript)
 - **IEREK Conference Platform** - Multi-site platform serving international conferences and researchers globally (React, JavaScript)
 
-### Open Source & Personal
-Check out my pinned repositories below! 👇
-
----
-
-## 📊 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewiidar&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewiidar&layout=compact&theme=radical&hide_border=true)
-
 ---
 
 ## 📫 Let's Connect
