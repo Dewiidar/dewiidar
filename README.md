@@ -8,6 +8,8 @@ I'm a Senior Frontend Engineer with **7+ years** of experience delivering enterp
 **🎯 Seeking:** Frontend engineering opportunities in the Netherlands via the Highly Skilled Migrant route  
 **💼 Role:** Senior Frontend Engineer at [Capstone Logistics](https://www.capstonelogistics.com/)
 
+> 💡 **Note:** Most of my professional contributions are made privately on Azure DevOps repositories for enterprise clients. My public GitHub activity doesn't reflect the full scope of my daily development work.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -52,6 +54,9 @@ I'm a Senior Frontend Engineer with **7+ years** of experience delivering enterp
 - **Yard Management System** - Built trailer movement tracking platform with 35% performance improvement through code-splitting and lazy loading (AngularJS, TypeScript)
 - **IEREK Conference Platform** - Multi-site platform serving international conferences and researchers globally (React, JavaScript)
 
+### 💡 Portfolio & Side Projects
+Check out my [portfolio website](https://mohameddewidar.com) to see more detailed case studies and live examples of my work.
+
 ---
 
 ## 📫 Let's Connect
@@ -59,3 +64,11 @@ I'm a Senior Frontend Engineer with **7+ years** of experience delivering enterp
 - 🌐 **Portfolio:** [mohameddewidar.com](https://mohameddewidar.com)
 - 💼 **LinkedIn:** [linkedin.com/in/mohamed-dewidar](https://www.linkedin.com/in/mohamed-dewidar/)
 - 📧 **Email:** mohamed.dewidar.career@gmail.com
+
+---
+
+<div align="center">
+
+*Interested in discussing frontend engineering roles? Feel free to reach out!*
+
+</div>
