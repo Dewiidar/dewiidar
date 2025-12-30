@@ -2,7 +2,7 @@
 
 ## Senior Frontend Engineer | Open to Netherlands 🇳🇱 (HSM)
 
-I'm a Senior Frontend Engineer with **7+ years** of experience delivering enterprise SaaS solutions. I specialize in building performant, scalable web applications using React, Angular, and TypeScript.
+I'm a Senior Frontend Engineer with **8+ years** of experience delivering enterprise SaaS solutions. I specialize in building performant, scalable web applications using React, Angular, and TypeScript.
 
 **📍 Currently:** Based in UAE, working remotely with US/EU clients  
 **🎯 Seeking:** Frontend engineering opportunities in the Netherlands via the Highly Skilled Migrant route  
