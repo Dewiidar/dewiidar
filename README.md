@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Dewidar 👋
 
-## Senior Frontend Engineer | Open to Netherlands 🇳🇱 (HSM)
+## Senior Frontend Engineer
 
 I'm a Senior Frontend Engineer with **8+ years** of experience delivering enterprise SaaS solutions. I specialize in building performant, scalable web applications using React, Angular, and TypeScript.
 
