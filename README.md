@@ -7,7 +7,6 @@ Senior fullstack engineer (TypeScript, React, Next.js, Node, Postgres). 8+ years
 <!-- LIVE:START -->
 - **[Heard](https://heardboard.com)**: Self-serve public feedback boards for any tool: drop in one script tag, users post and upvote ideas, you watch them ship. Free to start, Pro for unlimited boards.
 - **[Blip](https://blipnotify.com)**: Push notifications for your apps, on your phone: a Slack/Discord replacement for founder ops alerts, with a native iOS app.
-- **[Followback](https://followback.mohameddewidar.com)**: One-tap cleanup for Instagram accounts that don't follow you back, as a browser extension.
 <!-- LIVE:END -->
 
 Product code lives in private repos. The full, honest build log (wins and failures) is at [mohameddewidar.com](https://mohameddewidar.com).
