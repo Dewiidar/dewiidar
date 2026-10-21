@@ -4,7 +4,7 @@
 
 import { readFileSync, writeFileSync } from "node:fs";
 
-const SOURCE = "https://mohameddewidar.com/api/projects";
+const SOURCE = "https://dewidar.com/api/projects";
 const README = new URL("../README.md", import.meta.url);
 const START = "<!-- LIVE:START -->";
 const END = "<!-- LIVE:END -->";

@@ -5,10 +5,11 @@ Senior fullstack engineer (TypeScript, React, Next.js, Node, Postgres). 8+ years
 **Live now**
 
 <!-- LIVE:START -->
-- **[Heard](https://heardboard.com)**: Self-serve public feedback boards for any tool: drop in one script tag, users post and upvote ideas, you watch them ship. Free to start, Pro for unlimited boards.
-- **[Blip](https://blipnotify.com)**: Push notifications for your apps, on your phone: a Slack/Discord replacement for founder ops alerts, with a native iOS app.
+- **[Heard](https://heardboard.com)**: A public feedback board for your product. Users post ideas and vote, you ship the winners. One script tag to install, your first board is free.
+- **[Blip](https://blipnotify.com)**: Your app's signups, sales and errors as push notifications on your iPhone. One HTTP call or a webhook, no Slack channel to mute.
+- **[Followback](https://followback.mohameddewidar.com)**: A Chrome extension that finds the Instagram accounts not following you back and unfollows them for you.
 <!-- LIVE:END -->
 
-Product code lives in private repos. The full, honest build log (wins and failures) is at [mohameddewidar.com](https://mohameddewidar.com).
+Product code lives in private repos. The full, honest build log (wins and failures) is at [dewidar.com](https://dewidar.com).
 
-[Portfolio](https://mohameddewidar.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-dewidar/) · [X](https://x.com/MohamedDewidar_)
+[Portfolio](https://dewidar.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-dewidar/) · [X](https://x.com/MohamedDewidar_)
