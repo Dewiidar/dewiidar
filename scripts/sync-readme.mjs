@@ -15,7 +15,10 @@ const { projects } = await res.json();
 
 // Endpoint returning [] almost certainly means a bug upstream, not a
 // portfolio with zero shipped products. Fail loudly instead of blanking.
-const live = projects.filter((p) => p.status === "live");
+// Consumer tools stay off this employer-facing page (Followback was removed
+// by hand on 5 Oct 2026; this keeps the weekly sync from adding it back).
+const HIDDEN = new Set(["Followback"]);
+const live = projects.filter((p) => p.status === "live" && !HIDDEN.has(p.title));
 if (live.length === 0) throw new Error("0 live projects; refusing to update");
 
 const lines = live.map((p) => {
